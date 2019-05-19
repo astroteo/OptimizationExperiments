@@ -1,0 +1,8 @@
+function setGlobalIndividualBestEver(IndividualBestEver_)
+
+global IndividualBestEver
+
+IndividualBestEver = Individual;
+IndividualBestEver.score = IndividualBestEver_
+
+return

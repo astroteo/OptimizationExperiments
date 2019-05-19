@@ -1,0 +1,11 @@
+function individualsBreed = selectFromPopulation(individualsBest,best_samples, lucky_few)
+
+for i=1:best_samples
+    individualsBreed(individualBest(i))
+end
+
+lf =1
+while lf 
+
+
+end
