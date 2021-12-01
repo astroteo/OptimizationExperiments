@@ -1,5 +1,5 @@
 # OptimizationExperiments
-Genetic training of a neural network for obstacle avoidance, in CHolessy Wiltshire Dynamic.
+Genetic training of a neural network for obstacle avoidance, in Cholessy-Wiltshire's Dynamic.
 <br>
 Neural network is used as NL estimator for trajectory generation from a point-A to a point-B in optimal (w.r.t. fuel consumption)
 <br>
